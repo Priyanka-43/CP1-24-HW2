@@ -30,3 +30,18 @@ $\begin{bmatrix}
 
 \displaystyle{C}=\vec{{a}}\times\vec{{b}}={a}^{i}{b}^{i}={\left[\begin{matrix}{a}^{1}{b}^{1}&{a}^{1}{b}^{2}&\ldots&{a}^{1}{b}^{n}\\{a}^{2}{b}^{1}&{a}^{2}{b}^{2}&\ldots&{a}^{2}{b}^{n}\\\ldots&\ldots&\ldots&\ldots\\\ldots&\ldots&\ldots&\ldots\\{a}^{n}{b}^{1}&{a}^{n}{b}^{2}&\ldots&{a}^{n}{b}^{n}\end{matrix}\right]}
 $\vec a \cdot\vec b = \sum_i= 1^n a_i b_i$
+
+
+
+#Documentation for CODE
+##Python Code
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/974712a9-2308-4bed-b446-c8adca5c3d55">
+Execution Time:
+<img width="309" alt="image" src="https://github.com/user-attachments/assets/e3335fec-9175-4d52-a185-17a4de85e21b">
+
+##Einsum Numpy
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/c6679563-f391-4b84-b670-85a70bdf96db">
+
+Execution time:
+<img width="322" alt="image" src="https://github.com/user-attachments/assets/93f48360-f5f0-4085-85bc-affa68ee1bd1">
+
